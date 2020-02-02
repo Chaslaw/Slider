@@ -1,0 +1,43 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.slider-first {
+    width: 31%;
+    height: 100%;
+    margin: 0 auto;
+    border: 5px solid #333;
+    overflow: hidden;
+    margin-top: 100px;
+}
+
+.slider-second{
+    display: flex;
+    width: 100%;
+}
+
+img  {
+    width: 132%;
+}
+
+.slider-third {
+    display: flex;
+    width: 100%;
+    
+}
+
+.lights-On {
+    border: 2px solid yellow;
+    opacity: 0.6;
+    
+}
+
+.thumbnails {
+    width: 25%;
+    
+};
+
+
+
